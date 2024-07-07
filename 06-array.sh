@@ -8,4 +8,4 @@ echo "first actor name : ${MOVIES[1]}"
 
 echo "second actor name : ${MOVIES[2]}"
 
-echo "third actor name : ${movies[3]}"
+echo "third actor name : ${MOVIES[3]}"
