@@ -1,9 +1,9 @@
-#!/bin/bash
+  #!/bin/bash
 
 
 # declaring the variables
-PERSON1=SACHIN  # no space between variables and values
-PERSON2=RAVI
+PERSON1=$1  # no space between variables and values
+PERSON2=$2
 
 # reffering the variables means declare chesina variables ni use cheadam 
 echo "$PERSON1:: hello $PERSON2 how are you ?"

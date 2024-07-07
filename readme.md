@@ -15,3 +15,5 @@
 
 ** naming convention : use small case with hyphones(-) , no sppaces 
 
+
+git add .; git commit -m "some-message" ; git push -u origin main"
