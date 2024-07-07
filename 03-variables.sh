@@ -2,8 +2,8 @@
 
 
 # declaring the variables
-PERSON1=$1  # no space between variables and values
-PERSON2=$2
+PERSON1=rama  # no space between variables and values
+PERSON2=radha
 
 # reffering the variables means declare chesina variables ni use cheadam 
 echo "$PERSON1:: hello $PERSON2 how are you ?"
