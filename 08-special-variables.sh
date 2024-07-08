@@ -18,4 +18,10 @@ echo "host name : $HOSTNAME"
 
 echo "process id of the current shell-script : $$"
 
-echo ""
+sleep 60 
+
+echo "process id of last background command : $!"
+
+# if you want to check process id through  process logs 
+
+# ps-ef | grep sleep 
