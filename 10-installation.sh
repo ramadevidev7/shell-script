@@ -30,7 +30,7 @@ then
 echo "installation of git is failure"
 exit 1
 else
-echo "installation of mysql is success"
+echo "installation of git is success"
 
 fi
 echo "is script proceeding"
